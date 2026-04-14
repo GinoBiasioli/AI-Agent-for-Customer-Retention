@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+.env
+.env.*
+
+data/output/*.gsheet
+notebooks/.ipynb_checkpoints/

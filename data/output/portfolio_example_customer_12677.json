@@ -1,0 +1,59 @@
+{
+  "customer_id": "12677",
+  "input_metrics": {
+    "customer_id": "12677",
+    "recency_days": 182,
+    "purchase_frequency": 2.0,
+    "avg_order_value": 197.55,
+    "total_revenue": 395.1,
+    "tenure": 111,
+    "repeat_customer": 1,
+    "avg_days_between_purchases": 111.0
+  },
+  "derived_fields": {
+    "customer_id": "12677",
+    "segment_name": "Customer 12677 - At-Risk High-Value Buyer",
+    "recency_days": 182,
+    "purchase_frequency": 2.0,
+    "avg_order_value": 197.55,
+    "total_revenue": 395.1,
+    "tenure": 111,
+    "repeat_customer": 1,
+    "avg_days_between_purchases": 111.0,
+    "engagement_rate": 0.33,
+    "churn_risk": "high",
+    "discount_sensitivity": "medium",
+    "preferred_category": "General Merchandise",
+    "lifecycle_stage": "win_back",
+    "customer_brief": "Days since last purchase: 182. Number of purchases: 2.0. Average order value: 197.55. Total revenue: 395.10. Tenure: 111 days. Customer type: repeat customer. Average days between orders is 111.0."
+  },
+  "campaign": {
+    "segment_name": "Customer 12677 - At-Risk High-Value Buyer",
+    "campaign_goal": "win-back",
+    "recommended_strategy": "Acknowledge the lapse, re-introduce curated value and relevance, then escalate with a clear, time-bound recovery offer calibrated to AOV ($25 off $175+). Open with a light, margin-safe perk (free shipping threshold), follow with credibility and product curation, and close with urgency and a stronger incentive.",
+    "tone": "Personal, reassuring, and urgency-aware",
+    "cta": "Return with a limited-time reason to act",
+    "send_timing": "Day 1 / Day 5 / Day 10",
+    "rationale": "This customer purchased twice with a high AOV ($197.55) and has been inactive for 182 days\u2014well beyond their typical 111-day gap\u2014so churn risk is high. Medium discount sensitivity calls for a stepped approach: start with a soft, premium-friendly reason to revisit (free shipping over a healthy threshold) to protect margin, then reinforce relevance with curated value in their broad General Merchandise interest, and finally use a stronger, time-bound $-off incentive tuned to their AOV ($25 off $175+) to make conversion likely without over-discounting. The Day 1/5/10 cadence balances urgency with respect for inbox fatigue, while the tone stays relationship-aware and commercially focused.",
+    "emails": [
+      {
+        "step": 1,
+        "subject": "It\u2019s been a while\u2014see what\u2019s new",
+        "body": "Hi there,\n\nWe haven\u2019t seen you in a bit, and a lot has landed since your last order. If you\u2019re refreshing the everyday, our latest selection spans smart, practical picks across General Merchandise\u2014easy upgrades that make a difference from day one.\n\nTo make it simple to jump back in, enjoy free shipping on orders $150+ with code FREESHIP150 this week. It\u2019s a straightforward nudge to restock what you need or try something new.\n\nTake a look at what\u2019s new and trending, and if something catches your eye, that shipping perk is waiting.\n\nShop new arrivals \u2192"
+      },
+      {
+        "step": 2,
+        "subject": "Here\u2019s what\u2019s worth a second look",
+        "body": "Checking back in with a quick guide to what\u2019s performing best right now. Since your last visit, we\u2019ve refreshed core essentials and added thoughtful updates across everyday categories\u2014pieces designed to work hard and look good without overthinking.\n\nIf you tend to mix a few items per order, this is a great moment to build your cart from our newest essentials and refreshed favorites. You\u2019ll find clean designs, solid materials, and the kind of utility that earns a permanent spot in your routine.\n\nBrowse the latest picks, compare options side by side, and come back to it when you\u2019re ready\u2014your shortlist will still be there.\n\nExplore what\u2019s new \u2192"
+      },
+      {
+        "step": 3,
+        "subject": "48 hours: $25 off $175+ to come back",
+        "body": "We\u2019d really like to have you back. For the next 48 hours, take $25 off $175+ with code COMEBACK25.\n\nIt\u2019s a simple, one-time thank-you for past business\u2014and a good excuse to check out the latest General Merchandise additions you may have missed. Build a cart that fits your routine, apply the code at checkout, and you\u2019re set.\n\nThis offer expires soon. If you\u2019ve been on the fence, now\u2019s the moment to make it count.\n\nRedeem COMEBACK25 \u2192"
+      }
+    ],
+    "generation_mode": "openai",
+    "segment_summary": "Customer 12677 - At-Risk High-Value Buyer is a win_back segment with long inactive activity, medium purchase frequency, high order value, and medium engagement. Churn risk is high and discount sensitivity is medium. The likely business objective is win-back, centered on General Merchandise."
+  },
+  "generation_mode": "openai"
+}

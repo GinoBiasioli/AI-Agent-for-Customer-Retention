@@ -1,0 +1,7 @@
+segment_name,recency_days,purchase_frequency,avg_order_value,engagement_rate,churn_risk,discount_sensitivity,preferred_category,lifecycle_stage
+New Customers,10,1.2,45,0.62,low,medium,Sneakers,onboarding
+Loyal High-Value,30,8.5,180,0.54,low,low,Premium Apparel,loyalty
+At-Risk Repeat Buyers,85,4.1,70,0.18,high,high,Accessories,reactivation
+High-Value Declining Engagement,50,7.2,210,0.16,medium,low,Designer Bags,loyalty
+Discount-Driven Browsers,40,1.4,38,0.29,medium,high,Outlet Sportswear,conversion
+Dormant VIPs,140,6.3,240,0.08,high,low,Luxury Outerwear,win_back

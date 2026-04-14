@@ -1,0 +1,89 @@
+segment_name,campaign_goal,recommended_strategy,tone,cta,send_timing,email_1_subject,email_1_body,email_2_subject,email_2_body,email_3_subject,email_3_body,rationale,generation_mode
+New Customers,Onboard recent buyers and drive a confident second purchase in Sneakers,"Introduce the sneaker range and how to shop it (Day 1), build trust with proof points and use-cases (Day 3), then create momentum with a modest, time-bound incentive to secure a second order (Day 7).","Warm, helpful, and confidence-building",Explore bestsellers in the Sneakers category,Day 1 / Day 3 / Day 7,Your next go-to sneakers await,"Welcome—let’s make finding sneakers you’ll actually wear on repeat simple. Start with the styles customers buy again and again: versatile colors, comfortable builds, and pairs that work for weekdays and weekends.
+
+If you’re unsure where to begin, our category filters and size notes make it easy to land on the right fit and feel. You’ll also find straightforward care tips and customer reviews on each product page—everything you need to choose with confidence.
+
+Explore our sneaker bestsellers now and line up your next pair while inspiration is fresh.",What makes our sneakers easy to choose,"When a pair becomes a favorite, it’s rarely by accident. Our sneaker lineup focuses on everyday comfort, durable materials, and clean designs that dress up or down. You’ll see that reflected in customer reviews and in the details on each product page—from cushioning and traction notes to how each style fits.
+
+If your first pick has been getting a lot of wear, consider a second pair to rotate: one for daily miles, one that sharpens a casual look. It’s the simplest way to keep both pairs feeling fresh longer.
+
+Take another look at the Sneakers collection and find a style that complements what you already own.",48 hours to save 10% on your next pair,"A quick thank-you for getting started with us: take 10% off your next pair of sneakers for the next 48 hours. Use code NEXT10 at checkout.
+
+This is a simple nudge to grab the pair you’ve been eyeing—especially if your size tends to go fast. Whether you want a daily workhorse or a cleaner silhouette for nights out, the right next pick is waiting.
+
+Shop the Sneakers collection, use code NEXT10, and make your second pair your best yet.","This segment purchased recently (recency ~10 days) and is highly engaged but has low purchase frequency and a modest AOV. They’re early in the relationship and show medium discount sensitivity, so the sequence leads with guidance and relevance rather than price. Email 1 anchors on Sneakers and makes discovery easy. Email 2 builds confidence with reasons to trust—fit guidance, materials, everyday use—so the next purchase feels smart, not impulsive. Email 3 adds a gentle 10% incentive with urgency to capture momentum while churn risk is low and engagement is high, without over-discounting a new customer.",openai
+Loyal High-Value,loyalty,"Deliver an exclusive, premium-first experience that rewards loyalty without discounting: offer a private early-access window to new Premium Apparel, deepen confidence with craftsmanship and fit storytelling, and close with a clear last-chance reminder to secure preferred styles and sizes.","Appreciative, premium, relationship-focused",Explore your private edit,Day 1 / Day 5 / Day 12,Your private first look: Premium Apparel arrivals,"Thanks for staying close to the brand. We’ve opened a private 48-hour window for loyal customers to explore our newest Premium Apparel—tailored knits, refined outer layers, and clean essentials built to last. It’s a tight, elevated edit designed to pair with what’s already in your rotation, with seasonal textures alongside enduring staples.
+
+Use the link below to shop the private edit before it opens to everyone. You’ll see live size availability and delivery estimates so you can secure the pieces you want without rushing.
+
+Explore your private edit today.",The details that make these pieces worth it,"Great wardrobe decisions come down to construction and wearability. Our Premium Apparel is cut with clean lines and finished with thoughtful details—reinforced seams, refined drape, and fabrications chosen to hold color and shape through seasons. Each product page includes fit notes and care guidance so you know exactly what you’re getting, plus recommended pairings to help you build an outfit without guesswork.
+
+If you’re weighing a staple upgrade, compare weights and fabric blends in the descriptions; the differences are subtle, but you’ll feel them on day one. Revisit the private edit and take a closer look at the pieces you’ll reach for weekly.
+
+Explore your private edit.",Early access ends tonight,"This is your last day to shop the Premium Apparel private edit before it goes live sitewide. Once the collection opens, popular sizes tend to move quickly—especially in limited runs. If something caught your eye, now’s the moment to secure it.
+
+Head in to finalize your picks. We’ll surface live size availability and delivery estimates at checkout so you can wrap up with confidence.
+
+Explore your private edit before it closes.","This segment purchases often, spends more per order, and engages at a high rate with low churn risk and low discount sensitivity. They respond to newness, exclusivity, and brand equity more than to deals. The sequence opens with a private first look to acknowledge loyalty and drive early discovery in Premium Apparel. The second email adds depth—materials, construction, and fit—supporting confident repeat purchases without price incentives. The final message introduces gentle urgency around the end of early access and limited runs, creating momentum appropriate for a premium audience. The cadence (Day 1/5/12) gives space for considered decisions while keeping the collection top-of-mind.",openai
+At-Risk Repeat Buyers,reactivation,"Lead with relevance to their Accessories interest, follow with a curated value story and social proof, then close with a time-bound, category-limited incentive.","Warm, persuasive, and benefit-led",Come back and browse what is new,Day 1 / Day 4 / Day 8,New accessories just in,"It’s been a little while, and we’ve been busy. If Accessories are your go-to with us, you’ll like what just landed—fresh arrivals and easy updates that make everyday outfits feel finished again.
+
+Come back and browse what’s new in Accessories. From subtle upgrades to standout pieces, this drop was built for quick refreshes and repeat wear.
+
+Take a look while sizes and colors are wide open. If something catches your eye, make it yours before it moves.",Most‑loved picks to restart your look,"If you’re easing back in, we’ve narrowed the field to the pieces customers come back for—versatile Accessories that pair with what you already own and hold up to repeat use.
+
+Think season-right textures, thoughtful details, and finishes that look sharp without trying too hard. It’s the quick win your closet appreciates.
+
+Explore the edit, filter by what matters to you, and find the one or two upgrades that carry the week. When you’re ready, your category is waiting.",48‑hour perk: 15% off Accessories,"A little nudge to make coming back easy: enjoy 15% off Accessories for the next 48 hours. Use code ACCESS15 at checkout. It applies to Accessories only—exactly where you’ve found your favorites with us.
+
+If you’ve been eyeing a refresh, this is the moment to lock it in. Inventory moves quickly once a perk goes live, and this one closes soon.
+
+Shop now, apply ACCESS15 at checkout, and bring your look up to date without overthinking it.","At 85 days since last purchase, these buyers know the brand but have cooled off and engage infrequently. They over-index on Accessories and respond to price signals, so we start by re-establishing relevance and newness without discounting, then deepen interest with a curated, confidence-building edit. If they still don’t engage, we introduce a gentle, category-limited incentive to protect margin while matching their discount sensitivity. The 1/4/8 cadence keeps the brand present without spamming, and the tone stays relationship-aware and benefit-led to avoid sounding desperate.",openai
+High-Value Declining Engagement,upsell,"Anchor on prior value, introduce a premium next step, and remove friction with guidance.","Confident, consultative, and polished",Upgrade to a higher-value option,Day 1 / Day 4 / Day 9,Your next Designer Bag upgrade,"When you invest in a bag, it has to earn its place. If you’re considering what’s next, our newest Designer Bags refine the details that matter—elevated leathers, upgraded hardware, and interiors built to organize your day without adding bulk.
+
+To make the decision easy, we’ve pulled together a concise edit of higher-value options that deliver long-term wear and a polished finish from weekday to weekend. Think of it as the next, smarter step for your collection—fewer compromises, more impact.
+
+Explore the upgrade and choose the piece that will carry more, last longer, and look sharper the hundredth wear as it did on day one.
+
+Upgrade your Designer Bag",Which upgrade fits your routine?,"The right upgrade should work as hard as it looks. If you’re deciding between sizes or styles, start with the essentials: how you carry, what you pack, and where you’re headed most days.
+
+We’ve put together a quick guide to help you land on the best fit—crossbody versus tote for hands-free days, structured silhouettes that hold shape through travel, and materials chosen for durability without extra weight. You’ll also see interior layouts and strap options so you can compare capacity without guesswork.
+
+If you want a second opinion, reply to this email with how you typically use your bag—we’ll point you to two or three elevated picks that meet your needs.
+
+Find your perfect upgrade",Secure your upgrade while selection is best,"If you’ve had a specific Designer Bag in mind, now’s the moment to make it yours. Early in the season is when full color and material selection is available, and the most-wanted shades tend to go first.
+
+Choose a higher-value piece that aligns with how you actually live and carry—premium construction, thoughtful organization, and a finish that holds up beautifully over time. It’s the kind of upgrade you notice every day, from the smooth zip to the clean lines that still look sharp on a busy afternoon.
+
+Take the next step and secure the bag you’ll reach for on repeat.
+
+Secure your upgrade","This high-value loyalty segment buys often and at a premium AOV but is showing lower engagement. A discount-led approach would undermine perceived value and is unnecessary given low price sensitivity. The sequence leads with a confident reminder of the brand’s premium credentials and a curated path to a higher-end Designer Bag. The second email removes friction with practical guidance to help them choose the right upgrade, increasing confidence and momentum. The final message uses time-relevant urgency around new-season selection and decisive next steps without sounding promotional. Cadence of Day 1/4/9 keeps us present without overwhelming a busy, premium shopper.",openai
+Discount-Driven Browsers,promotional conversion,"Present a clear, time-bound outlet offer on Outlet Sportswear, spotlight value and affordability, and nudge multi-item baskets without eroding margin. Keep copy direct and action-oriented, with a final urgency push.","Energetic, direct, and conversion-focused",Shop the current offer,Day 1 / Day 3 / Day 6,Extra savings on Outlet Sportswear,"If value’s your green light, this is it. For a limited time, take an extra 15% off select Outlet Sportswear and lock in performance pieces at our best prices. From training tees and run shorts to layer-ready hoodies, the outlet is the fastest way to refresh your kit without stretching your budget.
+
+You’re in the right place for price-first picks that still deliver on fit and feel. Grab the everyday staples you’ll actually reach for, then check out before sizes start to move. Your extra savings are live—make them count today.
+
+Shop the current offer",Build your kit for less,"Quick win for your wallet: pair-ups in Outlet Sportswear stack value fast. Start with a breathable top, add training shorts or leggings, then round it out with a light layer—each piece priced to move, all built to keep up with your routine.
+
+If you paused on your last visit, come back to see what fits your week: gym days, runs, and recovery all covered at outlet pricing. Maximizing value isn’t just about one great find—it’s about getting more of what you use most while the extra savings are on.
+
+Shop the current offer",Last chance: outlet extra ends tonight,"Final reminder: your extra 15% off select Outlet Sportswear ends tonight. If you’ve been waiting for the nudge, this is it. Secure the staples you had in mind—tees, shorts, and go-to layers—before the extra savings wrap.
+
+This is the easiest add-to-cart you’ll make all week: proven essentials, outlet pricing, and a limited-time boost on top. Close it out now and start your next session in gear that works as hard as your budget.
+
+Shop the current offer",This segment engages but buys infrequently at a lower AOV and is highly discount-sensitive. A focused outlet promotion aligns with their price-first mindset and preferred category while keeping margin in check. The cadence (Day 1/3/6) keeps us present during their consideration window without overwhelming them. Email 1 introduces a clear extra-savings angle; Email 2 adds value cues and encourages building a kit to lift basket size; Email 3 creates urgency to convert fence-sitters. The direct tone and single CTA reduce friction and keep attention on the offer.,openai
+Dormant VIPs,win-back,"Acknowledge the lapse, rebuild interest with curated value, then use a stronger recovery offer.","Personal, reassuring, and urgency-aware",Return with a limited-time reason to act,Day 1 / Day 5 / Day 10,A refined take on Luxury Outerwear,"It’s been a little while, so a quick hello felt right. We’ve refreshed our Luxury Outerwear with considered details—elevated fabrics, clean lines, and versatile shades built to carry you through the season and beyond.
+
+If you’re ready for a piece that feels as good as it looks, start with our newest coats and parkas. They’re the styles customers return to for polish, performance, and longevity.
+
+Take a first look and choose what suits your days now. Popular sizes tend to move quickly, and we’d like you to have first pick.
+
+Shop the latest in Luxury Outerwear today.",What makes these coats worth it,"If you haven’t had a moment to browse yet, here’s why our outerwear consistently earns repeat wear: thoughtful construction, premium materials that hold their shape, and weather-ready performance without compromising on finish. These are pieces designed to last more than a season and to elevate anything you pair them with.
+
+Whether you lean toward a tailored wool coat or a technical parka, you’ll find precise finishes and an easy, refined fit. If you have any questions about sizing or styling, our team is here to help so you can feel confident before you click checkout.
+
+Revisit the collection when you’re ready—we think you’ll see (and feel) the difference.",A private $25 credit to come back,"We’d love to welcome you back with a small thank-you: a private $25 credit toward Luxury Outerwear, valid on orders $250+ for the next 72 hours. Use code VIP25 at checkout.
+
+If something from the current collection has been on your mind, this is the easiest way to make it yours. The credit is limited-time so we can keep it exclusive, and it applies only to Luxury Outerwear to ensure you get the piece you’ll reach for most.
+
+Redeem your credit and find the coat that fits your life now. If you need guidance on fit or styling, reply to this email and we’ll jump in.
+
+Code: VIP25 • $25 credit on Luxury Outerwear orders $250+ • Expires in 72 hours","This segment previously bought often at a high AOV but hasn’t engaged in months, signaling high churn risk. They’re typically less price-driven, so we lead with premium cues and product value rather than discounts. Email 1 reopens the relationship with a concise, respectful note and a curated focus on Luxury Outerwear to match their preference. Email 2 deepens interest by emphasizing quality, fit, and longevity—reasons that resonate with VIP buyers—and reduces friction with a clear path back to browse. Email 3 introduces a private, modest credit instead of a broad discount, adding urgency without eroding brand equity or margins. The Day 1/5/10 cadence balances reactivation speed with a premium, not-pushy feel for low-engagement VIPs.",openai

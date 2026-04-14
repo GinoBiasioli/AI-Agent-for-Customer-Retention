@@ -1,0 +1,297 @@
+[
+  {
+    "customer_id": "13674",
+    "input_metrics": {
+      "customer_id": "13674",
+      "recency_days": 59,
+      "purchase_frequency": 1.0,
+      "avg_order_value": 240.68,
+      "total_revenue": 240.68,
+      "tenure": 0,
+      "repeat_customer": 0,
+      "avg_days_between_purchases": 0.0
+    },
+    "derived_fields": {
+      "customer_id": "13674",
+      "segment_name": "Customer 13674 - New High-Value Customer",
+      "recency_days": 59,
+      "purchase_frequency": 1.0,
+      "avg_order_value": 240.68,
+      "total_revenue": 240.68,
+      "tenure": 0,
+      "repeat_customer": 0,
+      "avg_days_between_purchases": 0.0,
+      "engagement_rate": 0.5,
+      "churn_risk": "medium",
+      "discount_sensitivity": "medium",
+      "preferred_category": "General Merchandise",
+      "lifecycle_stage": "onboarding",
+      "customer_brief": "Days since last purchase: 59. Number of purchases: 1.0. Average order value: 240.68. Total revenue: 240.68. Tenure: 0 days. Customer type: first-time customer. Average days between orders is not available yet."
+    },
+    "campaign": {
+      "segment_name": "Customer 13674 - New High-Value Customer",
+      "campaign_goal": "onboarding",
+      "recommended_strategy": "Teach the product range first, then build confidence, then prompt the second purchase.",
+      "tone": "Warm, helpful, and confidence-building",
+      "cta": "Explore bestsellers in the category",
+      "send_timing": "Day 1 / Day 3 / Day 7",
+      "rationale": "Customer 13674 - New High-Value Customer is a onboarding segment with stale activity, low purchase frequency, high order value, and high engagement. Churn risk is medium and discount sensitivity is medium. The likely business objective is onboarding, centered on General Merchandise.",
+      "emails": [
+        {
+          "step": 1,
+          "subject": "Customer 13674 - New High-Value Customer: a more relevant way to shop General Merchandise",
+          "body": "Welcome them with a clear next step and reduce decision friction. Start with a message tied to General Merchandise, reflect the segment's recent behavior, and direct them toward a low-friction browse journey."
+        },
+        {
+          "step": 2,
+          "subject": "Why customers are returning to General Merchandise",
+          "body": "Build trust with social proof, product discovery, or benefit education. This second touch should deepen interest and make the CTA feel more credible."
+        },
+        {
+          "step": 3,
+          "subject": "A timely reason to act on General Merchandise",
+          "body": "Close with clear momentum. Use urgency, exclusivity, or an incentive that fits the segment economics without undermining the broader strategy."
+        }
+      ],
+      "generation_mode": "fallback_template",
+      "segment_summary": "Customer 13674 - New High-Value Customer is a onboarding segment with stale activity, low purchase frequency, high order value, and high engagement. Churn risk is medium and discount sensitivity is medium. The likely business objective is onboarding, centered on General Merchandise."
+    },
+    "generation_mode": "fallback_template"
+  },
+  {
+    "customer_id": "12677",
+    "input_metrics": {
+      "customer_id": "12677",
+      "recency_days": 182,
+      "purchase_frequency": 2.0,
+      "avg_order_value": 197.55,
+      "total_revenue": 395.1,
+      "tenure": 111,
+      "repeat_customer": 1,
+      "avg_days_between_purchases": 111.0
+    },
+    "derived_fields": {
+      "customer_id": "12677",
+      "segment_name": "Customer 12677 - At-Risk High-Value Buyer",
+      "recency_days": 182,
+      "purchase_frequency": 2.0,
+      "avg_order_value": 197.55,
+      "total_revenue": 395.1,
+      "tenure": 111,
+      "repeat_customer": 1,
+      "avg_days_between_purchases": 111.0,
+      "engagement_rate": 0.33,
+      "churn_risk": "high",
+      "discount_sensitivity": "medium",
+      "preferred_category": "General Merchandise",
+      "lifecycle_stage": "win_back",
+      "customer_brief": "Days since last purchase: 182. Number of purchases: 2.0. Average order value: 197.55. Total revenue: 395.10. Tenure: 111 days. Customer type: repeat customer. Average days between orders is 111.0."
+    },
+    "campaign": {
+      "segment_name": "Customer 12677 - At-Risk High-Value Buyer",
+      "campaign_goal": "win-back",
+      "recommended_strategy": "Acknowledge the lapse, rebuild interest with curated value, then use a stronger recovery offer.",
+      "tone": "Personal, reassuring, and urgency-aware",
+      "cta": "Return with a limited-time reason to act",
+      "send_timing": "Day 1 / Day 5 / Day 10",
+      "rationale": "Customer 12677 - At-Risk High-Value Buyer is a win_back segment with long inactive activity, medium purchase frequency, high order value, and medium engagement. Churn risk is high and discount sensitivity is medium. The likely business objective is win-back, centered on General Merchandise.",
+      "emails": [
+        {
+          "step": 1,
+          "subject": "Customer 12677 - At-Risk High-Value Buyer: a more relevant way to shop General Merchandise",
+          "body": "Frame the message as a thoughtful invitation to return, not a generic blast. Start with a message tied to General Merchandise, reflect the segment's recent behavior, and direct them toward a low-friction browse journey."
+        },
+        {
+          "step": 2,
+          "subject": "Why customers are returning to General Merchandise",
+          "body": "Build trust with social proof, product discovery, or benefit education. This second touch should deepen interest and make the CTA feel more credible."
+        },
+        {
+          "step": 3,
+          "subject": "A timely reason to act on General Merchandise",
+          "body": "Close with clear momentum. Use urgency, exclusivity, or an incentive that fits the segment economics without undermining the broader strategy."
+        }
+      ],
+      "generation_mode": "fallback_template",
+      "segment_summary": "Customer 12677 - At-Risk High-Value Buyer is a win_back segment with long inactive activity, medium purchase frequency, high order value, and medium engagement. Churn risk is high and discount sensitivity is medium. The likely business objective is win-back, centered on General Merchandise."
+    },
+    "generation_mode": "fallback_template"
+  },
+  {
+    "customer_id": "15519",
+    "input_metrics": {
+      "customer_id": "15519",
+      "recency_days": 10,
+      "purchase_frequency": 2.0,
+      "avg_order_value": 172.305,
+      "total_revenue": 344.61,
+      "tenure": 63,
+      "repeat_customer": 1,
+      "avg_days_between_purchases": 63.0
+    },
+    "derived_fields": {
+      "customer_id": "15519",
+      "segment_name": "Customer 15519 - High-Value Buyer",
+      "recency_days": 10,
+      "purchase_frequency": 2.0,
+      "avg_order_value": 172.305,
+      "total_revenue": 344.61,
+      "tenure": 63,
+      "repeat_customer": 1,
+      "avg_days_between_purchases": 63.0,
+      "engagement_rate": 0.69,
+      "churn_risk": "low",
+      "discount_sensitivity": "medium",
+      "preferred_category": "General Merchandise",
+      "lifecycle_stage": "active",
+      "customer_brief": "Days since last purchase: 10. Number of purchases: 2.0. Average order value: 172.31. Total revenue: 344.61. Tenure: 63 days. Customer type: repeat customer. Average days between orders is 63.0."
+    },
+    "campaign": {
+      "segment_name": "Customer 15519 - High-Value Buyer",
+      "campaign_goal": "cross-sell",
+      "recommended_strategy": "Connect their known interest to adjacent products and show how to build a fuller basket.",
+      "tone": "Relevant, practical, and inspiring",
+      "cta": "See complementary products",
+      "send_timing": "Day 1 / Day 4 / Day 8",
+      "rationale": "Customer 15519 - High-Value Buyer is a active segment with very recent activity, medium purchase frequency, high order value, and high engagement. Churn risk is low and discount sensitivity is medium. The likely business objective is cross-sell, centered on General Merchandise.",
+      "emails": [
+        {
+          "step": 1,
+          "subject": "Customer 15519 - High-Value Buyer: a more relevant way to shop General Merchandise",
+          "body": "Use the known category preference to suggest adjacent products naturally. Start with a message tied to General Merchandise, reflect the segment's recent behavior, and direct them toward a low-friction browse journey."
+        },
+        {
+          "step": 2,
+          "subject": "Why customers are returning to General Merchandise",
+          "body": "Build trust with social proof, product discovery, or benefit education. This second touch should deepen interest and make the CTA feel more credible."
+        },
+        {
+          "step": 3,
+          "subject": "A timely reason to act on General Merchandise",
+          "body": "Close with clear momentum. Use urgency, exclusivity, or an incentive that fits the segment economics without undermining the broader strategy."
+        }
+      ],
+      "generation_mode": "fallback_template",
+      "segment_summary": "Customer 15519 - High-Value Buyer is a active segment with very recent activity, medium purchase frequency, high order value, and high engagement. Churn risk is low and discount sensitivity is medium. The likely business objective is cross-sell, centered on General Merchandise."
+    },
+    "generation_mode": "fallback_template"
+  },
+  {
+    "customer_id": "15173",
+    "input_metrics": {
+      "customer_id": "15173",
+      "recency_days": 7,
+      "purchase_frequency": 7.0,
+      "avg_order_value": 213.5142857142857,
+      "total_revenue": 1494.6,
+      "tenure": 236,
+      "repeat_customer": 1,
+      "avg_days_between_purchases": 38.833333333333336
+    },
+    "derived_fields": {
+      "customer_id": "15173",
+      "segment_name": "Customer 15173 - VIP Loyalist",
+      "recency_days": 7,
+      "purchase_frequency": 7.0,
+      "avg_order_value": 213.5142857142857,
+      "total_revenue": 1494.6,
+      "tenure": 236,
+      "repeat_customer": 1,
+      "avg_days_between_purchases": 38.833333333333336,
+      "engagement_rate": 0.87,
+      "churn_risk": "low",
+      "discount_sensitivity": "low",
+      "preferred_category": "General Merchandise",
+      "lifecycle_stage": "loyalty",
+      "customer_brief": "Days since last purchase: 7. Number of purchases: 7.0. Average order value: 213.51. Total revenue: 1494.60. Tenure: 236 days. Customer type: repeat customer. Average days between orders is 38.8."
+    },
+    "campaign": {
+      "segment_name": "Customer 15173 - VIP Loyalist",
+      "campaign_goal": "loyalty",
+      "recommended_strategy": "Reinforce brand affinity, reward loyalty, and deepen the relationship with exclusivity.",
+      "tone": "Appreciative, premium, and relationship-focused",
+      "cta": "Discover exclusive picks and member benefits",
+      "send_timing": "Day 1 / Day 5 / Day 12",
+      "rationale": "Customer 15173 - VIP Loyalist is a loyalty segment with very recent activity, high purchase frequency, high order value, and high engagement. Churn risk is low and discount sensitivity is low. The likely business objective is loyalty, centered on General Merchandise.",
+      "emails": [
+        {
+          "step": 1,
+          "subject": "Customer 15173 - VIP Loyalist: a more relevant way to shop General Merchandise",
+          "body": "Show appreciation first so the sequence protects long-term customer value. Start with a message tied to General Merchandise, reflect the segment's recent behavior, and direct them toward a low-friction browse journey."
+        },
+        {
+          "step": 2,
+          "subject": "Why customers are returning to General Merchandise",
+          "body": "Build trust with social proof, product discovery, or benefit education. This second touch should deepen interest and make the CTA feel more credible."
+        },
+        {
+          "step": 3,
+          "subject": "A timely reason to act on General Merchandise",
+          "body": "Close with clear momentum. Use urgency, exclusivity, or an incentive that fits the segment economics without undermining the broader strategy."
+        }
+      ],
+      "generation_mode": "fallback_template",
+      "segment_summary": "Customer 15173 - VIP Loyalist is a loyalty segment with very recent activity, high purchase frequency, high order value, and high engagement. Churn risk is low and discount sensitivity is low. The likely business objective is loyalty, centered on General Merchandise."
+    },
+    "generation_mode": "fallback_template"
+  },
+  {
+    "customer_id": "14918",
+    "input_metrics": {
+      "customer_id": "14918",
+      "recency_days": 31,
+      "purchase_frequency": 7.0,
+      "avg_order_value": 620.8085714285714,
+      "total_revenue": 4345.66,
+      "tenure": 206,
+      "repeat_customer": 1,
+      "avg_days_between_purchases": 34.166666666666664
+    },
+    "derived_fields": {
+      "customer_id": "14918",
+      "segment_name": "Customer 14918 - VIP Loyalist",
+      "recency_days": 31,
+      "purchase_frequency": 7.0,
+      "avg_order_value": 620.8085714285714,
+      "total_revenue": 4345.66,
+      "tenure": 206,
+      "repeat_customer": 1,
+      "avg_days_between_purchases": 34.166666666666664,
+      "engagement_rate": 0.84,
+      "churn_risk": "medium",
+      "discount_sensitivity": "low",
+      "preferred_category": "General Merchandise",
+      "lifecycle_stage": "loyalty",
+      "customer_brief": "Days since last purchase: 31. Number of purchases: 7.0. Average order value: 620.81. Total revenue: 4345.66. Tenure: 206 days. Customer type: repeat customer. Average days between orders is 34.2."
+    },
+    "campaign": {
+      "segment_name": "Customer 14918 - VIP Loyalist",
+      "campaign_goal": "upsell",
+      "recommended_strategy": "Anchor on prior value, introduce a premium next step, and remove friction with guidance.",
+      "tone": "Confident, consultative, and polished",
+      "cta": "Upgrade to a higher-value option",
+      "send_timing": "Day 1 / Day 4 / Day 9",
+      "rationale": "Customer 14918 - VIP Loyalist is a loyalty segment with recent activity, high purchase frequency, high order value, and high engagement. Churn risk is medium and discount sensitivity is low. The likely business objective is upsell, centered on General Merchandise.",
+      "emails": [
+        {
+          "step": 1,
+          "subject": "Customer 14918 - VIP Loyalist: a more relevant way to shop General Merchandise",
+          "body": "Position the premium option as a better-fit next step rather than a hard sell. Start with a message tied to General Merchandise, reflect the segment's recent behavior, and direct them toward a low-friction browse journey."
+        },
+        {
+          "step": 2,
+          "subject": "Why customers are returning to General Merchandise",
+          "body": "Build trust with social proof, product discovery, or benefit education. This second touch should deepen interest and make the CTA feel more credible."
+        },
+        {
+          "step": 3,
+          "subject": "A timely reason to act on General Merchandise",
+          "body": "Close with clear momentum. Use urgency, exclusivity, or an incentive that fits the segment economics without undermining the broader strategy."
+        }
+      ],
+      "generation_mode": "fallback_template",
+      "segment_summary": "Customer 14918 - VIP Loyalist is a loyalty segment with recent activity, high purchase frequency, high order value, and high engagement. Churn risk is medium and discount sensitivity is low. The likely business objective is upsell, centered on General Merchandise."
+    },
+    "generation_mode": "fallback_template"
+  }
+]
