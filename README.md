@@ -2,12 +2,7 @@
 
 This project turns raw customer transactional data into lifecycle marketing strategy and campaign execution. It samples real customer records, derives CRM-ready attributes such as churn risk and lifecycle stage, infers the most relevant campaign goal, and generates a three-email sequence for each selected customer.
 
-It is designed as a portfolio project that demonstrates more than text generation:
 
-- customer-level feature interpretation
-- deterministic CRM decision logic
-- structured prompt construction
-- graceful fallback behavior when live LLM generation is unavailable
 
 ## What The Project Does
 
@@ -24,7 +19,7 @@ The repo includes a polished example output for a real sampled customer at:
 
 - `data/output/portfolio_example_customer_12677.json`
 
-That record is useful for demos and portfolio pages because it contains:
+That record is useful for demos because it contains:
 
 - raw customer metrics
 - derived CRM attributes
@@ -122,15 +117,9 @@ Optional:
 
 If the OpenAI package is not installed, the API call fails, or no API key is present, the project falls back to deterministic template generation so the pipeline still completes successfully.
 
-## Heuristic Notes
 
-- `churn_risk` is driven mainly by recency, with purchase frequency as a modifier
-- `engagement_rate` is a deterministic proxy derived from recency, frequency, repeat behavior, and AOV
-- `discount_sensitivity` is inferred from lower spend and lower order value patterns
-- `lifecycle_stage` is inferred from tenure, frequency, and churn risk
-- `preferred_category` currently defaults to `General Merchandise` because the transactional dataset has no category column
 
-## Portfolio Notes
+## Notes
 
 This repo is most suitable as a portfolio project when framed as:
 
