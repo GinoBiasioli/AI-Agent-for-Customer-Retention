@@ -1,4 +1,4 @@
-# AI CRM Agent for Personalized Lifecycle Campaigns
+# AI Agent for Customer Retention and Campaign Automation
 
 This project turns raw customer transactional data into lifecycle marketing strategy and campaign execution. It samples real customer records, derives CRM-ready attributes such as churn risk and lifecycle stage, infers the most relevant campaign goal, and generates a three-email sequence for each selected customer.
 
